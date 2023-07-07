@@ -1,0 +1,8 @@
+Package: inm7-zfsnap
+Version: 2.0.0-beta3-1
+Architecture: all
+Maintainer: Oskar Druska <o.druska@fz-juelich.de>
+Installed-Size: 7
+Section: utils
+Priority: optional
+Description: automatize taking ZFS snapshots; cron-able

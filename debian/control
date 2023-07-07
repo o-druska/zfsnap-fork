@@ -1,0 +1,11 @@
+Source: inm7-zfsnap
+Section: utils
+Priority: optional
+Maintainer: Oskar Druska <o.druska@fz-juelich.de>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2.0
+
+Package: inm7-zfsnap
+Architecture: all
+Depends:
+Description: automatize taking ZFS snapshots; cron-able 
